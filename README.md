@@ -2,7 +2,6 @@ Aquí tienes todo el trabajo integrado y completo con los archivos y sus respect
 
 ---
 
-### 1. `README.md`
 
 *(Contenido para el archivo principal de tu repositorio)*
 
