@@ -1,5 +1,5 @@
 # Repositorio de Auditoría y Calidad - Gestión Artesanal Tlaxiaco
-**Proyecto:** Plataforma de Repositorio Digital y Gestión Financiera para Artesanos de Tlaxiaco, Oaxaca (Ollas de Barro y Canastas Tejidas).
+**Proyecto:**  (Ollas de Barro y Canastas Tejidas).
 
 ## Integrantes del Equipo
 * Edgar Axel Sandoval Hernández (Ingeniería en Sistemas Computacionales, 7mo Semestre)
